@@ -10,6 +10,15 @@
 💻 Full Stack & Backend Developer | 🛸 Bengaluru<br>
 ⚡ I build scalable web apps, explore AI, and turn ideas into code 🚀
 </p>
+
+## About Me  
+
+🚀 Software Engineer — crafting scalable web apps and experimenting with AI.  
+✨ I enjoy turning complex problems into clean, efficient code and bringing ideas to life.  
+🎮 Outside of tech, I’m into games and web series.  
+
+📂 **Portfolio:** [Syed Sohail Portfolio](https://portfolio-ryno-e7einr8uf-syeds-projects-e3fcd20f.vercel.app)
+
 <!--
 **Sohail52/Sohail52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,11 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## About Me  
+- 
 
-🚀 Software Engineer — crafting scalable web apps and experimenting with AI. 
-✨ I enjoy turning complex problems into clean, efficient code and bringing ideas to life .
-🎮 Outside of tech, I’m into games and web series.
-
-📂 Portfolio: [Syed_Sohail_Portfolio]([https://your-portfolio.com](https://portfolio-ryno-e7einr8uf-syeds-projects-e3fcd20f.vercel.app))
