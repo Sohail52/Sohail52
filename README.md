@@ -1,7 +1,10 @@
 ## Hey there, I'm Syed Sohail  👋
 
-- 💻 Full Stack & Backend Developer | 🛸 Bengaluru
-- ⚡ I build scalable web apps, explore AI, and turn ideas into code 🚀
+<p align="center">
+Full Stack & Backend Developer 🚀, passionate about building practical and efficient applications.<br>
+💻 Full Stack & Backend Developer | 🛸 Bengaluru<br>
+⚡ I build scalable web apps, explore AI, and turn ideas into code 🚀
+</p>
 <!--
 **Sohail52/Sohail52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
