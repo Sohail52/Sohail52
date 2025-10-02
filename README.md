@@ -2,7 +2,8 @@
 <h3 align="center">💻 Full Stack & Backend Developer | 🛸 Bengaluru</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohail52&label=Profile%20views&color=0e75b6&style=flat" alt="sohail52" />
+💻 Full Stack & Backend Developer | 🛸 Bengaluru<br>
+⚡ I build scalable web apps, explore AI, and turn ideas into code 🚀
 </p>
 
 ---
