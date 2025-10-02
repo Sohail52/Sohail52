@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me  
+
+🚀 Software Engineer — crafting scalable web apps and experimenting with AI. 
+✨ I enjoy turning complex problems into clean, efficient code and bringing ideas to life .
+🎮 Outside of tech, I’m into games and web series.
+
+📂 Portfolio: [Syed_Sohail_Portfolio]([https://your-portfolio.com](https://portfolio-ryno-e7einr8uf-syeds-projects-e3fcd20f.vercel.app))
