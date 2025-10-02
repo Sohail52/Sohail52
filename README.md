@@ -1,5 +1,10 @@
 ## Hey there, I'm Syed Sohail  👋
 
+<p align="center"> 
+<a href="https://twitter.com/your_twitter" target="_blank">🐦 Twitter</a> | 
+<a href="https://www.linkedin.com/in/your_linkedin/" target="_blank">🔗 LinkedIn</a>
+</p>
+
 <p align="center">
 <br>
 💻 Full Stack & Backend Developer | 🛸 Bengaluru<br>
