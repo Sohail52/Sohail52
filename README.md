@@ -1,7 +1,7 @@
 ## Hey there, I'm Syed Sohail  👋
 
 <p align="center">
-Full Stack & Backend Developer 🚀, passionate about building practical and efficient applications.<br>
+<br>
 💻 Full Stack & Backend Developer | 🛸 Bengaluru<br>
 ⚡ I build scalable web apps, explore AI, and turn ideas into code 🚀
 </p>
