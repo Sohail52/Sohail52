@@ -2,7 +2,6 @@
 <h3 align="center">💻 Full Stack & Backend Developer | 🛸 Bengaluru</h3>
 
 <p align="center">
-💻 Full Stack & Backend Developer | 🛸 Bengaluru<br>
 ⚡ I build scalable web apps, explore AI, and turn ideas into code 🚀
 </p>
 
