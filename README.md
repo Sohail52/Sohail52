@@ -17,7 +17,6 @@
 - 🎮 Outside of tech, I enjoy **gaming** and binge-watching **web series**.  
 - 📂 **Portfolio:** [Click here](https://portfolio-ryno-e7einr8uf-syeds-projects-e3fcd20f.vercel.app)  
 
----
 
 ## 🛠️ Languages & Tools  
 <p align="center"> 
