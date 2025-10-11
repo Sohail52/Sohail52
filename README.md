@@ -63,8 +63,5 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail52&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail52&theme=tokyonight" alt="GitHub streak" />
 </p>
