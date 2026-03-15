@@ -15,7 +15,7 @@
 - 💻 Software Engineer crafting **scalable web apps** and experimenting with **AI**.  
 - 🌱 Currently focused on writing **clean, efficient code** and bringing new ideas to life.  
 - 🎮 Outside of tech, I enjoy **gaming** and binge-watching **web series**.  
-- 📂 **Portfolio:** [Click here](https://portfolio-ryno-e7einr8uf-syed-projects-e3fcd20f.vercel.app)  
+- 📂 **Portfolio:** [Click here](https://portfolio-ryno-e7einr8uf-syeds-projects-e3fcd20f.vercel.app/)  
 
 ---
 
