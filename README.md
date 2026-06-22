@@ -15,7 +15,7 @@
 - 💻 Software Engineer crafting **scalable web apps** and experimenting with **AI**.  
 - 🌱 Currently focused on writing **clean, efficient code** and bringing new ideas to life.  
 - 🎮 Outside of tech, I enjoy **gaming** and binge-watching **web series**.  
-- 📂 **Portfolio:** [Click here](https:syedsohail-tau.vercel.app)  
+- 📂 **Portfolio:** [Click here](https://syedsohail-tau.vercel.app/)  
 
 ---
 
